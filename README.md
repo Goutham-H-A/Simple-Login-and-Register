@@ -36,7 +36,7 @@ This project consists of a basic user registration and login system. It includes
 - Frontend built with React.js
 - Backend built with Node.js and Express.js
 - MongoDB used as the database
-- JWT token-based authentication
+
 
 ## Installation
 
