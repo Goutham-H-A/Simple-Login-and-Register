@@ -52,22 +52,27 @@ To run this project on your local machine, follow these steps:
       cd your-root-directory
    
 4. Go to Backend
+      ```bash
       cd backend
    
 6. Install all node dependencies
+      ```bash
       npm install
    
 8. Create a file .env in Backend
       And Set MONGODB_URI and PORT
    
 10. Run The Backend
+     ```bash
       node index.js
     
 12. Go to Frontend
+      ```bash
       cd frontend
       npm install
     
 14. Run The Frontend to start react app
+       ```bash
        npm start
 
 
