@@ -21,7 +21,7 @@ To run this project on your local machine, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone # My MERN Project
+   git clone https://github.com/Goutham-H-A/Simple-Login-and-Register.git
 
 Welcome to My MERN Project! This is a simple web application built using the MERN stack.
 
