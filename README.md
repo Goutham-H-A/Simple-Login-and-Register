@@ -48,6 +48,7 @@ To run this project on your local machine, follow these steps:
    git clone https://github.com/Goutham-H-A/Simple-Login-and-Register.git
 
 2. Go to the root directory
+     ```bash
       cd your-root-directory
    
 4. Go to Backend
